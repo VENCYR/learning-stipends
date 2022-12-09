@@ -23,10 +23,12 @@
 | Cockroach Labs             | $2500/yr                                | New York            | 201-500         | [Link](https://www.cockroachlabs.com/careers/)|
 | Databricks                 | $1000/yr                                | San Francisco       | 1001-5000       | [Link](https://www.databricks.com/company/careers)|
 | Flexport                   | $1000/yr                                | San Francisco       | 1001-5000       | [Link](https://www.flexport.com/company/careers/)|
-| GitHub                     | $2500/yr                                | San Francisco       | 501-1000        | [Link](https://github.com/about/careers)|
+| GitHub                     | $2000/yr                                | San Francisco       | 1001-5000       | [Link](https://github.com/about/careers)|
+| Gruntwork                  | $1000/mo                                | USA (100% Remote)   | 11 - 50         | [Link](https://gruntwork.io/careers)|
 | Jobandtalent               | €1000/yr                                | Madrid              | 1001-5000       | [Link](https://www.jobandtalent.com/join-us)|
 | Lattice                    | $5000/yr                                | San Francisco       | 501-1000        | [Link](https://lattice.com/careers)|
 | Lob                        | $1000/yr                                | San Francisco       | 201-500         | [Link](https://www.lob.com/careers)|
+| Lykon                      | €1000/yr                                | Remote Europe       | 51-200          | [Link](https://careers.lykon.com/)|
 | Mercury                    | $1000/yr                                | San Francisco       | 201-500         | [Link](https://mercury.com/jobs)|
 | Mixpanel                   | $500/yr                                 | San Francisco       | 201-500         | [Link](https://mixpanel.com/jobs/)|
 | Mr Yum                     | AU$1000/yr                              | Victoria, AU        | 201-500         | [Link](https://www.mryum.com/careers)|
@@ -37,6 +39,7 @@
 | Relativity Space           | $2000/yr                                | Long Beach          | 201-500         | [Link](https://www.relativityspace.com/careers)|
 | Shortcut                   | $2000/yr                                | New York            | 51-200          | [Link](https://careers.shortcut.io/jobs)|
 | Sourcegraph                | $1000/yr                                | San Francisco       | 51-200          | [Link](https://about.sourcegraph.com/jobs)|
+| SoundCloud                 | $1300 or €1000 or £900/yr               | Berlin, Germany     | 501-1000        | [Link](https://careers.soundcloud.com/)|
 | Stack Overflow             | $2500/yr                                | New York            | 501-1000        | [Link](https://stackoverflow.co/company/careers)|
 | Stripe                     | $500/yr                                 | San Francisco       | 1001-5000       | [Link](https://stripe.com/jobs)|
 | Synopsys                   | $5000/yr                                | Mountain View       | 10,001+         | [Link](https://www.synopsys.com/careers.html)|
